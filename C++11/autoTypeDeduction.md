@@ -1,10 +1,10 @@
-## C++11 - auto Type Deduction
+# C++11 - auto Type Deduction
 
 In versions of C++ prior to C++11 (C++98 and C++03), it was mandatory to specify the type of a variable, such as `int`, `char`, etc., before defining or declaring it. However, in more flexible languages like C#, JavaScript, PHP, and Python, programmers can define variables without explicitly stating their types, allowing the compiler (or interpreter) to infer them. This makes coding more convenient.
 
 C++11 introduced support for automatic type deduction to align with this trend, using the `auto` keyword.
 
-**Syntax and Rules of auto Type Deduction**
+## Syntax and Rules of auto Type Deduction
 
 In earlier C++ versions, the `auto` keyword was used to indicate a variable's storage duration. It contrasted with the `static` keyword, with `auto` implying automatic storage, which was the compiler's default behavior. This made the `auto` keyword somewhat redundant, as it was rarely used explicitly.
 
@@ -20,7 +20,7 @@ Where `name` is the variable name and `value` is its initial value.
 
 Note: `auto` is merely a placeholder that the compiler replaces with the actual type during compilation. In other words, variables in C++ must have a definite type, but this type can be deduced by the compiler.
 
-**Simple Examples of auto Type Deduction:**
+## Simple Examples of auto Type Deduction:
 
 ```c++
 auto n = 10;
@@ -52,7 +52,7 @@ It's crucial to avoid ambiguity during deduction. In this example, once the comp
 
 Another important point: variables declared with `auto` must be initialized immediately. This is because `auto` in C++11 acts as a "placeholder" and not a true type declaration like `int`.
 
-**Advanced Usage of auto**
+## Advanced Usage of auto
 
 Besides standalone use, `auto` can be combined with specific types, representing a "partial" type instead of a complete one. Consider the following code:
 
@@ -100,7 +100,7 @@ In summary, for `auto` combined with `const`:
 
 - When the type is a reference, `auto` retains the `const` qualifier.
 
-**Limitations of auto**
+## Limitations of auto
 
 We mentioned earlier that variables declared with `auto` must be initialized. This is one limitation. Are there others?
 
@@ -132,7 +132,7 @@ int main() {
 }
 ```
 
-**Applications of auto**
+## Applications of auto
 
 Having discussed the deduction rules and caveats of `auto`, let's explore its practical applications.
 
