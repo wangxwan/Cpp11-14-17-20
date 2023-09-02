@@ -34,3 +34,4 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 
 ### [auto Type Deduction](C++11/autoTypeDeduction.md)
 
+### [decltype Type Deduction](C++11/decltypeTypeDeduction.md)
