@@ -37,3 +37,5 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 ### [decltype Type Deduction](C++11/decltypeTypeDeduction.md)
 
 ### [Summary of Differences Between auto and decltype](C++11/autoORdecltype.md)
+
+### [Trailing Return Types (Deduced Return Types)](TrailingReturnType.md)
