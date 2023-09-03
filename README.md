@@ -38,4 +38,6 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 
 ### [Summary of Differences Between auto and decltype](C++11/autoORdecltype.md)
 
-### [Trailing Return Types (Deduced Return Types)](TrailingReturnType.md)
+### [Trailing Return Types (Deduced Return Types)](C++11/TrailingReturnType.md)
+
+### [Improved Handling of Consecutive Closing Angle Brackets (>>) in Template Instantiation](C++11/ConsecutiveAngleBrackets.md)
