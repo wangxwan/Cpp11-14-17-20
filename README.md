@@ -41,3 +41,5 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 ### [Trailing Return Types (Deduced Return Types)](C++11/TrailingReturnType.md)
 
 ### [Improved Handling of Consecutive Closing Angle Brackets (>>) in Template Instantiation](C++11/ConsecutiveAngleBrackets.md)
+
+### [Using using for Alias Declarations (Replacing typedef)](C++11/using.md)
