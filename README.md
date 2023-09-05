@@ -45,3 +45,5 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 ### [Using using for Alias Declarations (Replacing typedef)](C++11/using.md)
 
 ### [Default Template Arguments for Function Templates](C++11/DefaultTemplate.md)
+
+### [Variadic Templates and Functions](C++11/Variadic.md)
