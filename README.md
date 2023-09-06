@@ -47,3 +47,5 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 ### [Default Template Arguments for Function Templates](C++11/DefaultTemplate.md)
 
 ### [Variadic Templates and Functions](C++11/Variadic.md)
+
+### [The tuple Class Template](C++11/tuple.md)
