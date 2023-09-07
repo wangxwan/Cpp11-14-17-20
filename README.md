@@ -51,3 +51,5 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 ### [The tuple Class Template](C++11/tuple.md)
 
 ### [List Initialization (Unified Initialization)](C++11/ListInitialization.md)
+
+### [Lambda Expressions](C++11/LambdaExpressions.md)
