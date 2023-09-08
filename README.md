@@ -57,3 +57,5 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 ### [Unrestricted Unions](C++11/UnrestrictedUnions.md)
 
 ### [Range-Based for Loops](C++11/forLoop.md)
+
+### [Range-Based for Loop Considerations](C++11/forLoopCautions.md)
