@@ -55,3 +55,5 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 ### [Lambda Expressions](C++11/LambdaExpressions.md)
 
 ### [Unrestricted Unions](C++11/UnrestrictedUnions.md)
+
+### [Range-Based for Loops](C++11/forLoop.md)
