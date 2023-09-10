@@ -61,3 +61,5 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 ### [Range-Based for Loop Considerations](C++11/forLoopCautions.md)
 
 ### [constexpr: Verifying Constant Expressions](C++11/constexpr.md)
+
+### [constexpr vs. const: Distinguishing the Differences](C++11/constexprVsconst.md)
