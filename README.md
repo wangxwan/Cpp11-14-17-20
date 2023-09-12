@@ -67,3 +67,5 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 ### [long long: Extended Integer Type](C++11/longlong.md)
 
 ### [Rvalue References](C++11/RvalueReferences.md)
+
+### [Move Constructors](C++11/MoveConstructors.md)
