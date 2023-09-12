@@ -69,3 +69,5 @@ Among the above three standards, the C++11 standard is undoubtedly revolutionary
 ### [Rvalue References](C++11/RvalueReferences.md)
 
 ### [Move Constructors](C++11/MoveConstructors.md)
+
+### [move() Function: Forcing Lvalue-to-Rvalue Conversion](C++11/move().md)
